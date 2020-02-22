@@ -7,7 +7,7 @@ import requests
 import json
 from googletrans import Translator
 
-token = "NjcwMjg0NTA1ODg1NTczMTgz.XjfzrA.3bY8gxxuHEhKyyp5BYcohOcL3Pc"
+token = "NjcwMjg0NTA1ODg1NTczMTgz.XlDUUA.oUYtENddJt24-8cu0toER32gPv8"
 
 url = "https://notify-api.line.me/api/notify"
 access_token = "BIpNpPokdscqRrQLGlO3bovDymapN2Oo2w0duR0JSmr"
