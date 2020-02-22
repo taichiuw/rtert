@@ -1,6 +1,1 @@
-"# superbot" 
-"# supermybot" 
-"# supermybot" 
-"# supermybot" 
-"# supermybot" 
-"# supermybot" 
+"# supermybot" "# supermybot" 
